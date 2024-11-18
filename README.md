@@ -1,9 +1,13 @@
 # Rozbory
-[Malý princ](#Malý-princ)
-[Velký Gatsby](#Velký-Gatsby)
-[Smrt krásných srnců](#Smrt-krásných-srnců)
-[Krysař](#Krysař)
-[O myších a lidech](#O-myších-a-lidech)
+- [Malý princ](#Malý-princ)
+
+- [Velký Gatsby](#Velký-Gatsby)
+
+- [Smrt krásných srnců](#Smrt-krásných-srnců)
+
+- [Krysař](#Krysař)
+
+- [O myších a lidech](#O-myších-a-lidech)
 
 ## Malý princ
 **Autor:** Antoine de Saint-Exupéry
