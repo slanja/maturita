@@ -1,4 +1,74 @@
 # Rozbory
+- [Sluha dvou pánů](#Sluha-dvou-pánů)
+- [Lakomec]()
+- [Romeo a Julie]()
+- [Král Lávra]()
+- [Kytice]()
+- [Revizor]()
+- [Maryša]()
+- [Jak je důležité míti Filipa]()
+- [Velký Gatsby]()
+- [Farma zvířat]()
+- [Harry Potter a Kámen mudrců]()
+- [Malý princ]()
+- [O myších a lidech]()
+- [*Hobit aneb Cesta tam a zase zpátky]()
+- [*Pán prstenů: Společenstvo prstenu]()
+- [Bílá nemoc]()
+- [Krysař]()
+- [Spalovač mrtvol]()
+- [Modlitba pro Kateřinu Horovitzovou]()
+- [Smrt krásných srnců]()
+
+## Sluha dvou pánů
+**Autor:** Carlo Goldoni
+- **Umělecký směr/skupina/hnutí:** Klasicismus
+- **Literární druh:** Drama
+- **Literní forma:** Próza
+- **Žánr:** Komedie
+- **Čas a prostor:** 
+- **Postavy:** 
+- **Děj:** 
+- **Kontext autorovy tvorby:** 
+- **Další díla:** 
+- **Literární/obecně kulturní kontext:** 
+- **Další autoři:** 
+  - Moliére - Tartuffe, Lakomec
+  - Jean Racine - Faidra (psychologická tragédie) 
+
+## Lakomec
+**Autor:** 
+- **Umělecký směr/skupina/hnutí:** 
+- **Literární druh:** 
+- **Literní forma:** 
+- **Žánr:** 
+- **Čas a prostor:** 
+- **Postavy:** 
+- **Děj:** 
+- **Kontext autorovy tvorby:** 
+- **Další díla:** 
+- **Literární/obecně kulturní kontext:** 
+- **Další autoři:** 
+
+## Romeo a Julie
+**Autor:** 
+- **Umělecký směr/skupina/hnutí:** 
+- **Literární druh:** 
+- **Literní forma:** 
+- **Žánr:** 
+- **Čas a prostor:** 
+- **Postavy:** 
+- **Děj:** 
+- **Kontext autorovy tvorby:** 
+- **Další díla:** 
+- **Literární/obecně kulturní kontext:** 
+- **Další autoři:** 
+
+
+
+# Older
+TODO: REWRITE ALL OF THEM TO NEW FORM
+
 - [Malý princ](#Malý-princ)
 - [Velký Gatsby](#Velký-Gatsby)
 - [Smrt krásných srnců](#Smrt-krásných-srnců)
