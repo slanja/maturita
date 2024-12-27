@@ -30,27 +30,45 @@
 - **Postavy:** 
 - **Děj:** 
 - **Kontext autorovy tvorby:** 
-- **Další díla:** 
+- **Další díla:** Poprask na laguně
 - **Literární/obecně kulturní kontext:** 
 - **Další autoři:** 
-  - Moliére - Tartuffe, Lakomec
-  - Jean Racine - Faidra (psychologická tragédie) 
+  - Moliére - Tartuffe, Lakomec, Don Juan
+  - Jean Racine - Faidra
 
 ## Lakomec
-**Autor:** 
-- **Umělecký směr/skupina/hnutí:** 
-- **Literární druh:** 
-- **Literní forma:** 
-- **Žánr:** 
+**Autor:** Moliére
+- **Umělecký směr/skupina/hnutí:** Klasicismus
+- **Literární druh:** Drama
+- **Literní forma:** Drama
+- **Žánr:** Satirická komedie (fraška)
 - **Čas a prostor:** 
 - **Postavy:** 
 - **Děj:** 
 - **Kontext autorovy tvorby:** 
-- **Další díla:** 
+- **Další díla:** Tartuffe, Misantrop
 - **Literární/obecně kulturní kontext:** 
 - **Další autoři:** 
+  - Carlo Goldoni - Sluha dvou pánů, Poprask na laguně
+  - Jean Racine - Faidra
 
 ## Romeo a Julie
+**Autor:** William Shakespeare
+- **Umělecký směr/skupina/hnutí:** Renesance (a humanismus)
+- **Literární druh:** Drama 
+- **Literní forma:** Drama
+- **Žánr:** Tragédie (milostná)
+- **Čas a prostor:** 
+- **Postavy:** 
+- **Děj:** 
+- **Kontext autorovy tvorby:** 
+- **Další díla:** Hamlet, Král Lear, Macbeth, Zkrocení zlé ženy
+- **Literární/obecně kulturní kontext:** 
+- **Další autoři:** 
+  - Dante Alighieri - Božská komedie
+  - Giovanny Boccacio
+
+##
 **Autor:** 
 - **Umělecký směr/skupina/hnutí:** 
 - **Literární druh:** 
