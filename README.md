@@ -1,8 +1,8 @@
 # Rozbory
 - [Sluha dvou pánů](#Sluha-dvou-pánů)
-- [Lakomec]()
-- [Romeo a Julie]()
-- [Král Lávra]()
+- [Lakomec](#Lakomec)
+- [Romeo a Julie](#Romeo-a-Julie)
+- [Král Lávra](#Král-Lávra)
 - [Kytice]()
 - [Revizor]()
 - [Maryša]()
@@ -28,6 +28,7 @@
 - **Žánr:** Komedie
 - **Čas a prostor:** 
 - **Postavy:** 
+  - 
 - **Děj:** 
 - **Kontext autorovy tvorby:** 
 - **Další díla:** Poprask na laguně
@@ -67,6 +68,34 @@
 - **Další autoři:** 
   - Dante Alighieri - Božská komedie
   - Giovanny Boccacio
+
+## Král lávra
+**Autor:** Karel Havlíček Borovský
+- **Umělecký směr/skupina/hnutí:** Realismus
+- **Literární druh:** 
+- **Literní forma:** 
+- **Žánr:** Poezie
+- **Čas a prostor:** Středověk, pravděpodobně Irsko (je to Irský král)
+- **Postavy:** král Lávra, Kukulín, kukulínova matka (vdova), poustevníček, Červíček
+- **Děj:** Král Lávra, který panuje dobře se stydí za svoje oslí uši a tak vždy po stříhání popraví holiče, jednou jde holiče stříhat Kukulín, jehož matkou je vdova, ta krále prosí, ať ho ušetří popravy. Král se slituje, ale Kukulín musí pomlčet oslích uších, co má král. Kukulín jde pro radu za poustevníčkem, protože je tížen tímto tajemstvím, ten mu řekne, ať to zašeptá do vrby. Z vrby pak Červíček (hudebník) vyřeže kolíček do basy a ta pak tajemství vyzradí. Když se král dozví, že se vlastně nic nezměnilo a občanům je jedno, že má oslí uši, tak je šťastný.
+- **Kontext autorovy tvorby:** 
+- **Další díla:** 
+- **Literární/obecně kulturní kontext:** 
+- **Další autoři:** Božena Němcová
+
+## Kytice
+**Autor:** 
+- **Umělecký směr/skupina/hnutí:** 
+- **Literární druh:** 
+- **Literní forma:** 
+- **Žánr:** 
+- **Čas a prostor:** 
+- **Postavy:** 
+- **Děj:** 
+- **Kontext autorovy tvorby:** 
+- **Další díla:** 
+- **Literární/obecně kulturní kontext:** 
+- **Další autoři:** 
 
 ##
 **Autor:** 
