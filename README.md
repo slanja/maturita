@@ -32,7 +32,7 @@
 **Místo a čas děje:** Italské prostředí, 18. století (doba commedia dell’arte)
 
 🏛 **Společensko-historický kontext**  
-Komedie vznikla v době osvícenství, kdy se tradice improvizované commedia dell’arte postupně ustavovala do pevnějších scénářů, jež odhalovaly vrstvy společnosti a hrali si s identitou postav.
+Komedie vznikla v době osvícenství, kdy se tradice improvizované commedia dell’arte postupně ustavovala do pevnějších scénářů, jež odhalovaly společenské vrstvy a hrali si s identitou postav.
 
 👤 **Hlavní postavy**  
 • **Truffaldino** – mazaný sluha, který se snaží sloužit dvěma pánům současně  
@@ -41,7 +41,7 @@ Komedie vznikla v době osvícenství, kdy se tradice improvizované commedia de
 • **Pantalone** – bohatý kupec zastupující tradiční společenské vrstvy
 
 📜 **Děj**  
-Truffaldino se ocitá v nelehké situaci, kdy musí zároveň sloužit dvěma různým pánům. Jeho snaha udržet dvojí službu vede k řadě komických záměn, falešných identit a nedorozumění. Nakonec se všechny lži odhalí a pravda vítězí, kdy se situace ustálí a Truffaldinovi se vyplatí jeho mazanost.
+Truffaldino se ocitá v nelehké situaci, kdy musí zároveň sloužit dvěma různým pánům. Jeho snaha udržet si dvojí službu vede k řadě komických záměn, falešných identit a nedorozumění. Nakonec se všechny lži odhalí a pravda vítězí, když se situace ustálí.
 
 💡 **Hlavní myšlenky**  
 • Kritika společenských konvencí a přetvářky  
@@ -65,24 +65,24 @@ Truffaldino se ocitá v nelehké situaci, kdy musí zároveň sloužit dvěma r�
 **Literární druh:** Epika  
 **Žánr:** Komedie  
 **Období:** 17. století (francouzský klasicismus)  
-**Místo a čas děje:** Francouzské aristokratické prostředí, 17. století (doba absolutismu)
+**Místo a čas děje:** Paříž, 17. století
 
 🏛 **Společensko-historický kontext**  
-Lakomec vznikl v době, kdy posedlost penězi a materialismus utvářely mezilidské vztahy. Molière svým humorem upozorňuje na extrémní lakotu a byrokratickou posedlost majetkem.
+Lakomec vznikl v době, kdy posedlost penězi a materialismus formovaly společenské vztahy. Molière svým humorem upozorňuje na extrémní lakotu, která je ústředním tématem díla.
 
 👤 **Hlavní postavy**  
 • **Harpagon** – chorobně lakomý otec posedlý penězi  
 • **Kleant** – syn toužící po opravdové lásce a svobodě  
 • **Eliška** – dcera trpící otcovským nátlakem  
-• **Valér** – muž, který upřímně miluje Elišku  
-• **Mariana** – postava symbolizující skutečnou lásku
+• **Valér** – mladý muž, který upřímně miluje Elišku  
+• **Mariana** – postava symbolizující opravdovou lásku
 
 📜 **Děj**  
-Harpagon plánuje nevýhodné sňatky pro sebe i své děti, aby dosáhl maximálního zisku. Během procesu se syn Kleant snaží získat lásku Mariany, což vyvolává spletitou milostnou situaci. Postupně se odhaluje absurdita chamtivosti a materialismu.
+Harpagon plánuje nevýhodné sňatky pro sebe i své děti, aby získal co nejvíce majetku. Současně se Kleant snaží získat lásku Mariany, což přináší spletitou milostnou situaci. Dochází ke konfliktům a komickým záměnám, které postupně odhalují absurditu chamtivosti a materialismu.
 
 💡 **Hlavní myšlenky**  
-• Kritika lakoty a materiální posedlosti  
-• Konflikt mezi opravdovou láskou a honbou za penězi  
+• Kritika chamtivosti a posedlosti penězi  
+• Konflikt mezi opravdovou láskou a materiálními touhami  
 • Ironický pohled na lidské slabosti
 
 📚 **Další díla autora**  
@@ -105,22 +105,22 @@ Harpagon plánuje nevýhodné sňatky pro sebe i své děti, aby dosáhl maximá
 **Místo a čas děje:** Verona, Itálie, konec 16. století
 
 🏛 **Společensko-historický kontext**  
-Tragédie vznikla v době, kdy rodinné spory a předsudky byly hluboce zakořeněny. Shakespeare využívá osudovou lásku k zobrazení konfliktu mezi tradicí a individuální vášní.
+Tragédie vznikla v době, kdy rodinné spory a předsudky byly hluboce zakořeněny. Shakespeare využívá osudovou lásku k ukázání konfliktu mezi tradicí a individuální vášní.
 
 👤 **Hlavní postavy**  
 • **Romeo** – impulsivní a vášnivý mladík z rodu Montague  
-• **Julie** – dívka z rodu Kapuletů, zamilovaná do Romea  
-• **Merkucio** – Romeův přítel, jehož tragický osud urychlí děj  
+• **Julie** – dcera rodu Kapuletů, zamilovaná do Romea  
+• **Merkucio** – blízký přítel Romea, jehož tragický osud zrychlí děj  
 • **Tybalt** – zosobnění rodinné nenávisti  
-• **Lorenzo** – kněz, snažící se zachránit milenecký pár tajnou svatbou
+• **Lorenzo** – kněz, snažící se zachránit mladý pár tajnou svatbou
 
 📜 **Děj**  
-Romeo a Julie se tajně vezmou, přičemž jejich láska narazí na zásadní rodinné spory. Smrt Merkucia, následné vyhnanství Romea a plán, kdy Julie předstírá svou smrt, vedou k tragickému konci – sebevraždě obou mladých milenců.
+Romeo a Julie se tajně vezmou, ale jejich láska je zmařena rodinnými spory. Smrt Merkucia, následné vyhnanství Romea a nešťastný plán s předstíranou smrtí Julie vedou k tragickému závěru – sebevraždě milenců, což zdůrazňuje nevyhnutelnost osudu.
 
 💡 **Hlavní myšlenky**  
 • Konflikt mezi láskou a rodinnou nenávistí  
-• Nevyhnutelnost osudových chyb  
-• Kritika předsudků a tradičních konfliktů
+• Nevyhnutelnost tragických osudů  
+• Kritika společenských předsudků, které brání svobodě lásky
 
 📚 **Další díla autora**  
 • *Hamlet*  
@@ -139,16 +139,17 @@ Romeo a Julie se tajně vezmou, přičemž jejich láska narazí na zásadní ro
 **Literární druh:** Epika  
 **Žánr:** Satirická báseň  
 **Období:** Česká literatura 19. století  
-**Místo a čas děje:** fiktivní irské prostředí, středověk
+**Místo a čas děje:** Irsko, středověk
+
 🏛 **Společensko-historický kontext**  
-Dílo vzniklo v době rakouského absolutismu a cenzury. Havlíček Borovský využívá humor a satiru k odsouzení nespravedlivých mocenských poměrů své doby.
+Dílo vzniklo v době rakouského absolutismu a cenzury. Havlíček Borovský využívá humor a satiru k odsouzení nespravedlivých mocenských poměrů – interpretace, která může odkazovat také na irské tradice.
 
 👤 **Hlavní postavy**  
 • **Král Lávra** – panovník, který skrývá své oslí uši  
 • **Kukulín** – holič, jenž odhalí královo tajemství
 
 📜 **Děj**  
-Král Lávra se snaží pečlivě skrýt své oslí uši a k ochraně tajemství tvrdě trestá každého, kdo by jej mohl odhalit. Nakonec se však Kukulín rozhodne pravdu vyzradit – šeptá ji do dutiny stromu, ze kterého je následně vyrobena basa. Při veřejném vystoupení basa nečekaně prozradí pravdu, což přinese počáteční šok, ale nakonec vede k neobvyklému přijetí krále se všemi jeho nedokonalostmi.
+Král Lávra se snaží pečlivě skrýt své oslí uši a k ochraně tajemství tvrdě trestá každého, kdo by jej mohl odhalit. Nakonec se Kukulín rozhodne pravdu vyzradit – když šeptá tajemství do dutiny stromu, ze kterého je později vyrobena basa. Basa při veřejném vystoupení náhle prozradí pravdu, což způsobí počáteční šok, ale nakonec vede k zvláštnímu přijetí krále se všemi jeho nedokonalostmi.
 
 💡 **Hlavní myšlenky**  
 • Kritika absolutistické moci  
@@ -171,20 +172,20 @@ Král Lávra se snaží pečlivě skrýt své oslí uši a k ochraně tajemství
 **Literární druh:** Epika  
 **Žánr:** Balady, lyrická sbírka  
 **Období:** Český romantismus, 19. století  
-**Místo a čas děje:** Česká venkovská krajina, mýtické prostředí folklóru 19. století
+**Místo a čas děje:** Česká venkovská krajina, mýtické a folklórní prostředí 19. století
 
 🏛 **Společensko-historický kontext**  
-Sbírka vznikla během českého národního obrození a úzce souvisí s úsilím o uchování českých tradic a folklóru.
+Sbírka vznikla během českého národního obrození a úzce souvisí s úsilím uchovat české tradice a folklór.
 
 👤 **Hlavní postavy**  
-• Postavy se liší v jednotlivých baladách – od tragických milenců, přes pomstychtivé duchy až po osamělé postavy, přičemž každá balada tvoří vlastní emotivní a mystický svět.
+• Postavy se liší v jednotlivých baladách – od tragických milenců, přes pomstychtivé duchy až po osamělé postavy, každá vytváří vlastní emotivní a mystický svět.
 
 📜 **Děj**  
-*Kytice* obsahuje samostatné příběhy, ve kterých osudy postav ovlivňují láska, pomsta, zrada či osud. Tradiční vzorce a symbolika přírody dodávají baladám hlubokou emoční a morální atmosféru.
+*Kytice* je sbírka samostatných příběhů, ve kterých osudy postav ovlivňují láska, pomsta, zrada či osud. Tradiční vzorce a bohatá symbolika přírody dodávají každé baladě hlubokou emoční a morální atmosféru.
 
 💡 **Hlavní myšlenky**  
 • Nevyhnutelnost osudu a tragédie lidského života  
-• Konflikt mezi lidskými vášněmi a přírodními silami  
+• Konflikt mezi lidskými vášněmi a silami přírody  
 • Morální dilemata spravedlnosti a pomsty
 
 📚 **Další díla autora**  
@@ -206,23 +207,23 @@ Sbírka vznikla během českého národního obrození a úzce souvisí s úsil�
 **Místo a čas děje:** Maloměstská ruská provincie, 19. století
 
 🏛 **Společensko-historický kontext**  
-Dílo vzniklo jako ostrá kritika ruské byrokracie a korupce. Gogol pomocí groteskních situací a přehnaných postav odhaluje pokrytectví a nedostatky lokálního úřednického aparátu.
+Dílo vzniklo jako ostrá kritika ruské byrokracie a korupce prostřednictvím groteskních situací a přehnaných postav, které odhalují pokrytectví místního úřednického aparátu.
 
 👤 **Hlavní postavy**  
-• **Revizor** – očekávaný úředník, který se nakonec ukáže jako obyčejný podvodník  
-• **Městští úředníci** – představitelé mocenských struktur, kteří se snaží skrýt své nedostatky  
-• **Místní obyvatelé** – oběti i spolupachatelé systému
+• **Revizor** – očekávaný úředník, který se ukáže jako obyčejný podvodník  
+• **Městští úředníci** – představitelé mocenských struktur, snažící se skrýt své nedostatky  
+• **Místní obyvatelé** – obyvatelé ovlivnění a spolupachatelé systému
 
 📜 **Děj**  
-Do maloměsta přijíždí očekávaný revizor, což vede k panice mezi místními úředníky, jež se snaží napříč prostředky zakrýt své škandály. Jakmile se odhalí, že revizor není tím, za koho se vydával, celková absurdita systému vyjde najevo a pokrytectví místního aparátu je vystaveno.
+Do maloměsta přijíždí očekávaný revizor, což vyvolá paniku mezi místními úředníky, jež se pod nátlakem snaží skrýt své škandály. Jakmile se odhalí, že revizor není tím, za koho se vydával, celková absurdita systému vychází najevo a pokrytectví místního aparátu je ostře odhaleno.
 
 💡 **Hlavní myšlenky**  
-• Kritika korupce a nekompetence úředníků  
+• Kritika korupce a nekompetentnosti úředníků  
 • Odhalení pokrytectví mocenských struktur  
-• Humor a satira jako prostředek společenské kritiky
+• Humorem a satirou vykreslená společenská kritika
 
 📚 **Další díla autora**  
-• Další satirické povídky Gogola
+• Další satirické povídky a divadelní hry Gogola
 
 ✨ **Další autoři té doby**  
 • Fjodor Dostojevskij (*Zločin a trest*)  
@@ -239,24 +240,24 @@ Do maloměsta přijíždí očekávaný revizor, což vede k panice mezi místn�
 **Místo a čas děje:** Venkovská česká krajina, přelom 19. a 20. století – prostředí tradičních patriarchálních hodnot
 
 🏛 **Společensko-historický kontext**  
-Dramatické dílo vzniklo v době národního obrození a sociálních proměn. Zobrazuje osudy venkovských obyvatel, kteří jsou bezmocní vůči stávajícím tradičním pravidlům a společenským tlakům.
+Dramatické dílo vzniklo v době národního obrození a sociálních proměn. Ukazuje osudy venkovských obyvatel, kteří jsou bezmocní vůči zastaralým tradicím a společenskému tlaku.
 
 👤 **Hlavní postavy**  
-• **Maryša** – tragická hrdinka, oběť vnuceného sňatku a tradičních normativů  
+• **Maryša** – tragická hrdinka, oběť vnuceného sňatku a přísných společenských norem  
 • **Vávra** – postava symbolizující alternativní hodnoty a touhu po osobní svobodě  
 • **Hospodář** – muž, do něhož je Maryša nucena kvůli společenským tlakům  
 • **Vesnická rodina a obyvatelé** – představují kolektivní tradice a tlaky, které formují osudy jednotlivců
 
 📜 **Děj**  
-Příběh sleduje osud Maryši, ženy, která je donucena podřídit se nechtěnému sňatku a tradičním společenským normám. Její touha po osobní svobodě a opravdové lásce, spolu s postavou Vávry, symbolizuje odpor vůči i přes veškerý tlak tradic – což nakonec vede k tragickému konci.
+Příběh sleduje osud Maryši, ženy, která je donucena podřídit se nechtěnému sňatku a tradičním společenským normám. Její touha po osobní svobodě a opravdové lásce, spolu s postavou Vávry, symbolizuje odpor vůči těmto tlakům, což však nakonec vede k tragickému konci.
 
 💡 **Hlavní myšlenky**  
 • Kritika patriarchálních a tradičních hodnot  
-• Konflikt mezi individuální svobodou a kolektivními očekáváními  
-• Tragédie ztráty osobní identity v prostředí, kde jsou hodnoty vnuceny zvenčí
+• Konflikt mezi individuální touhou a kolektivními očekáváními  
+• Tragédie ztráty osobní identity pod tlakem tradic
 
 📚 **Další díla autora**  
-• (Další dramatické texty Mrštíků, pokud jsou známé)
+• (Další dramatické texty Mrštíků, pokud jsou dostupné)
 
 ✨ **Další autoři té doby**  
 • Alois Jirásek (*Proti všem*)  
@@ -273,19 +274,19 @@ Příběh sleduje osud Maryši, ženy, která je donucena podřídit se nechtěn
 **Místo a čas děje:** Anglie, viktoriánské aristokratické prostředí
 
 🏛 **Společensko-historický kontext**  
-Hra vznikla ve společnosti, kde přísná pravidla a dvojí morálka určovaly chování aristokracie. Wilde využívá ironii a komické situace, aby ukázal pokrytectví tehdejší společnosti.
+Hra vznikla ve společnosti, kde přísná pravidla a dvojí morálka vládl aristokracii. Wilde využívá ironii a komickou satiru k odhalení pokrytectví tehdejší společnosti.
 
 👤 **Hlavní postavy**  
 • **Filip** – charismatický tanečník, jehož šarm a vtip odhalují skryté nedostatky aristokratických hodnot  
-• **Aristokraté** – představitelé buržoazie, kteří se snaží udržet zdání ctnosti, ale jsou ovládáni pokrytectvím
+• **Aristokraté** – představitelé buržoazie, snažící se udržet zdání ctnosti, ale ovládaní pokrytectvím
 
 📜 **Děj**  
-Hra sleduje spleť milostných záměn a identit, kdy Filip svým šarmem a humorem nechtěně odhaluje nedostatky aristokratických pravidel. Řada komických a ironických situací, podložena slovními hříčkami, nakonec poukazuje na absurditu celého prostředí.
+Hra sleduje spleť milostných záměn a záměn identit. Filip svým šarmem a humorem nechtěně odhaluje nedostatky aristokratických pravidel, což vede k řadě komických a ironických situací, jež poukazují na absurditu prostředí.
 
 💡 **Hlavní myšlenky**  
 • Kritika přetvářky a falešné společenské morálky  
 • Síla humoru a slovních hříček při odhalování pravdy  
-• Konflikt mezi idealizací ctnosti a realitou lidské slabosti
+• Konflikt mezi idealizací ctnosti a reálnou lidskou slabostí
 
 📚 **Další díla autora**  
 • *Dorian Gray*  
@@ -315,12 +316,12 @@ Román reflektuje americkou společnost 20. let 20. století – dobu prosperity
 • **Tom Buchanan** – arogantní manžel, představitel povrchnosti a bezohlednosti
 
 📜 **Děj**  
-Nick Carraway se nastěhuje do New Yorku a brzy se seznámí se záhadným Jayem Gatsby, jenž pořádá okázalé večírky s cílem nalákat svou dávnou lásku Daisy. Jak se příběh rozvíjí, odhaluje se, že bohatství a luxus nejsou zárukou vnitřního štěstí, a tragické události postupně vedou ke konečné konfrontaci mezi iluzí a realitou.
+Nick Carraway se nastěhuje do New Yorku a brzy se seznámí se záhadným Jayem Gatsby, jenž pořádá okázalé večírky, aby upoutal svou dávnou lásku Daisy. Postupně se ukazuje, že bohatství a luxus nenabízejí vnitřní štěstí, a tragické události vedou ke konfrontaci iluzí s realitou.
 
 💡 **Hlavní myšlenky**  
 • Kritika amerického snu a iluze bohatství  
 • Morální úpadek a prázdnota povrchní společnosti  
-• Symbolika – například zelené světlo, reprezentující naději a touhu
+• Symbolika – například zelené světlo představující naději a touhu
 
 📚 **Další díla autora**  
 • *Krásní a prokletí*  
@@ -338,19 +339,19 @@ Nick Carraway se nastěhuje do New Yorku a brzy se seznámí se záhadným Jayem
 **Literární druh:** Epika  
 **Žánr:** Satirická alegorie  
 **Období:** 20. století  
-**Místo a čas děje:** Fiktivní farma, sloužící jako alegorie post-revoluční společnosti (odraz stalinistické éry)
+**Místo a čas děje:** Fiktivní farma, alegorické prostředí post-revoluční společnosti (odraz stalinistické éry)
 
 🏛 **Společensko-historický kontext**  
-Dílo vzniklo ve stínu totalitních režimů 20. století a představuje ostrou kritiku zneužívání moci, korupce a manipulace.
+Dílo vzniklo pod vlivem totalitních režimů 20. století a kritizuje zneužívání moci, korupci a manipulaci, přičemž využívá alegorické zvířecí postavy.
 
 👤 **Hlavní postavy**  
-• **Napoleon** – prase, které symbolizuje autoritářskou vládu  
+• **Napoleon** – prase symbolizující autoritářskou vládu  
 • **Snowball** – idealistický vůdce, soupeřící s Napoleonem  
 • **Boxer** – věrný pracovník reprezentující pracující třídu  
-• Další zvířata, která symbolizují různé společenské vrstvy
+• Další zvířata symbolizující různé společenské vrstvy
 
 📜 **Děj**  
-Zvířata na farmě se vzbouří proti svým lidským pánům a vytvoří si vlastní společnost. Postupem času však prasata, vedená Napoleonem, postupně přebírají absolutistickou kontrolu, což vede k rozpadu původních ideálů revoluce a vzniku dystopického režimu.
+Zvířata na farmě se vzbouří proti lidským pánům a vytvoří si vlastní společnost. Postupně však prasata, vedená Napoleonem, získávají absolutistickou moc, což vede k rozpadu původních revolučních ideálů a vzniku dystopického režimu.
 
 💡 **Hlavní myšlenky**  
 • Kritika totalitních režimů a zneužívání moci  
@@ -376,21 +377,21 @@ Zvířata na farmě se vzbouří proti svým lidským pánům a vytvoří si vla
 **Místo a čas děje:** Fiktivní kouzelný svět, převážně ve Velké Británii, koncem 20. a počátkem 21. století
 
 🏛 **Společensko-historický kontext**  
-Série vznikla na prahu digitální éry a odráží společenské změny, což pomohlo definovat moderní populární fantasy.
+Série vznikla na prahu digitální éry a odráží společenské změny, což pomohlo definovat a rozšířit moderní fantasy literaturu.
 
 👤 **Hlavní postavy**  
-• **Harry Potter** – mladý kouzelník objevující své magické dědictví  
+• **Harry Potter** – mladý kouzelník, který postupně objevuje své magické dědictví  
 • **Hermiona Grangerová** – chytrá a statečná kamarádka  
-• **Ron Weasley** – věrný přítel, který dodává příběhu lidský rozměr  
-• **Lord Voldemort** – temný čaroděj simbolizující absolutní zlo
+• **Ron Weasley** – věrný přítel, dodávající příběhu lidský rozměr  
+• **Lord Voldemort** – temný čaroděj představující absolutní zlo
 
 📜 **Děj**  
-Příběh sleduje Harryho od jeho těžkého dětství u nevraživé rodiny až po vstup do Bradavické školy čar a kouzel. Postupně se setkává s přáteli, učiteli i nepřáteli, přičemž konkuruje temným silám. Série kombinuje dobrodružství, přátelství a morální dilemata s důrazem na odvahu a obětavost.
+Příběh sleduje Harryho od jeho těžkého dětství u nevraživé rodiny až po vstup do Bradavické školy čar a kouzel. Postupně se setkává s přáteli, učiteli i nepřáteli, což vede k epickému boji mezi světy dobra a zla.
 
 💡 **Hlavní myšlenky**  
-• Boj mezi dobrem a zlem, význam přátelství  
+• Boj mezi dobrem a zlem a význam přátelství  
 • Síla lásky a obětavosti  
-• Osobní růst a hledání svého místa ve světě
+• Osobní růst a hledání vlastního místa ve světě
 
 📚 **Další díla autora**  
 • *Fantastická zvířata a kde je hledat*  
@@ -408,24 +409,24 @@ Příběh sleduje Harryho od jeho těžkého dětství u nevraživé rodiny až 
 **Literární druh:** Epika  
 **Žánr:** Filozofická pohádka  
 **Období:** Meziválečná literatura  
-**Místo a čas děje:** Univerzální prostředí – od malých planet po pouštní krajiny, symbolicky spojené s první polovinou 20. století
+**Místo a čas děje:** Univerzální prostředí – od malých planet po pouštní krajiny; symbolicky spjaté s první polovinou 20. století
 
 🏛 **Společensko-historický kontext**  
-Dílo vzniklo mezi dvěma světovými válkami a reflektuje témata humanity, přátelství a dětské čistoty, kontrastující s dospělým světem.
+Dílo vzniklo mezi dvěma světovými válkami a reflektuje témata humanity, přátelství a dětské čistoty, což kontrastuje s povrchností dospělého světa.
 
 👤 **Hlavní postavy**  
-• **Malý princ** – zvídavý chlapec, hledající smysl života  
+• **Malý princ** – zvídavý chlapec hledající smysl života  
 • **Pilot** – vypravěč, havarující v poušti, který se setkává s princem  
 • **Liška** – moudrá postava, jež učí, že „správně vidíme jen srdcem“  
 • **Růže** – pyšná květina, kterou princ upřímně miluje
 
 📜 **Děj**  
-Pilot havaruje v poušti a setkává se s Malým princem, který vypráví příběh ze své malé planetky B612 a komplikovaného vztahu k růži. Na Zemi se setkává s liškou, která odhaluje hluboký význam přátelství, a nakonec princ symbolicky „odchází“, aby se vrátil ke své růži – obětování a touha po domově.
+Pilot havaruje v poušti a setkává se s Malým princem, který vypráví příběh ze své malé planetky B612 a komplikovaného vztahu k růži. Na Zemi se setkává s liškou, která odhaluje hluboký význam přátelství. Nakonec princ symbolicky „odchází“, aby se vrátil ke své růži, což představuje obětování a touhu po domově.
 
 💡 **Hlavní myšlenky**  
 • Kritika povrchnosti dospělého světa  
 • Význam přátelství a lásky  
-• Dětská schopnost vidět pod povrchem
+• Dětská schopnost vidět hlubší pravdy
 
 📚 **Další díla autora**  
 • *Letec*  
@@ -447,20 +448,20 @@ Pilot havaruje v poušti a setkává se s Malým princem, který vypráví pří
 **Místo a čas děje:** Kuba, Karibik, 20. století
 
 🏛 **Společensko-historický kontext**  
-Příběh vznikl v době oslav vytrvalosti lidského ducha a ukazuje hrdinství jednotlivce tváří v tvář přírodním silám.
+Příběh vznikl v době oslav vytrvalosti a odvahy jednotlivce, který čelí přírodním silám. Hemingwayův úsporný styl zdůrazňuje důstojnost hrdiny.
 
 👤 **Hlavní postavy**  
 • **Stařec (Santiago)** – starý kubánský rybář, který žije se ctí a odhodláním  
-• **Obrovský kapr** – protivník, se kterým se statečně utkává  
-• **Moře a příroda** – symboly neúprosného boje a osamělosti
+• **Obrovský kapr** – protivník, se kterým se hrdinně utkává  
+• **Příroda a moře** – symboly neúprosného boje a osamělosti
 
 📜 **Děj**  
-Stařec Santiago se vydává na osamělou plavbu, během které po vyčerpávajícím boji uloví obrovského marlina. Při návratu si však jeho úlovek prakticky nechá sežrat žraloky, což symbolizuje neúprosný boj s přírodou. Hrdinství se tak ukazuje v samotném úsilí a odvaze, i když konečný výsledek není vítězný.
+Stařec Santiago se vydává na osamělou plavbu, během níž po dlouhém a vzrušujícím boji uloví obrovského marlina. Při návratu však jeho úlovek téměř zkonzumují žraloci, čímž se zdůrazňuje tragický boj s přírodními silami a hrdinství spočívá v samotné snaze.
 
 💡 **Hlavní myšlenky**  
 • Odvaha a vytrvalost tváří v tvář nezdaru  
-• Boj jednotlivce proti mohutným silám přírody  
-• Hrdinství se měří zejména snahou
+• Boj jednotlivce proti mohutným přírodním silám  
+• Hrdinství se měří snahou, i když výsledek není vítězný
 
 📚 **Další díla autora**  
 • *Komu zvoní hrana*
@@ -480,20 +481,20 @@ Stařec Santiago se vydává na osamělou plavbu, během které po vyčerpávaj�
 **Místo a čas děje:** USA, zejména Kalifornie, během 1930. až 40. let
 
 🏛 **Společensko-historický kontext**  
-Román zachycuje tíživou atmosféru Velké hospodářské krize, kdy se sny často střetávaly s drsnou realitou sociálních a ekonomických nerovností.
+Román zachycuje tíživé období Velké hospodářské krize, kdy se sny často střetávaly s nelítostnou realitou sociálních a ekonomických nerovností.
 
 👤 **Hlavní postavy**  
 • **George** – inteligentní a opatrný společník  
 • **Lennie** – silný, ale duševně omezený přítel s dětinskou nevinností  
-• Ostatní postavy – symbolizují osamělost a touhu po lepším životě
+• Ostatní postavy – reprezentují osamělost a touhu po lepším životě
 
 📜 **Děj**  
-Dva přátelé, George a Lennie, putují americkou krajinou hledající práci a naději na nový začátek. Lennie svou nedovedností a nevinností neúmyslně způsobí tragédii, která nakonec znemožní jejich sny o lepším životě.
+George a Lennie putují americkou krajinou hledající práci a nový život. Lennie svou nedovedností a nevinností neúmyslně způsobí tragédii, která nakonec rozbije jejich sny o lepším životě.
 
 💡 **Hlavní myšlenky**  
 • Kontrast mezi americkým snem a drsnou realitou  
 • Téma přátelství a osamělosti  
-• Tragédie dobrých úmyslů v nelítostném světě
+• Tragédie dobrých úmyslů ve světle nelítostného světa
 
 📚 **Další díla autora**  
 • *Hrozny hněvu*
@@ -513,14 +514,14 @@ Dva přátelé, George a Lennie, putují americkou krajinou hledající práci a
 **Místo a čas děje:** Česká společnost 20. století, období války a totalitních režimů
 
 🏛 **Společensko-historický kontext**  
-Román vznikl v době válečných traumat a totalitních režimů, kdy jsou temné stránky lidské existence a morální dilemata zřetelně patrné.
+Román vznikl v době, kdy společnost čelila traumatům války a totalitních režimů. Dílo odhaluje temné stránky lidské existence a morální dilemata v extrémních podmínkách.
 
 👤 **Hlavní postavy**  
 • **Hlavní hrdina (spalovač)** – muž, jehož profese symbolizuje morální krizi doby  
-• **Vedlejší postavy** – představují oběti a důsledky násilí v extrémních společenských podmínkách
+• **Vedlejší postavy** – představují oběti a následky násilí a zla
 
 📜 **Děj**  
-Hrdina žije ve světě, kde se routinní pálení mrtvol stává temným rituálem, kterým je zakrývána morální krize doby. Postupně se odhaluje psychologické trápení a důsledky války a totalitního režimu, což zdůrazňuje absurditu lidské existence.
+Hrdina žije ve světě, kde se rutinní pálení mrtvol stává temným rituálem, skrze který se zakrývá morální krize. Postupně se odhaluje psychologické trápení postav, jejichž životy jsou formovány atmosférou války a totalitních režimů.
 
 💡 **Hlavní myšlenky**  
 • Morální relativismus a neoddělitelná přítomnost zla  
@@ -545,19 +546,19 @@ Hrdina žije ve světě, kde se routinní pálení mrtvol stává temným rituá
 **Místo a čas děje:** Fiktivní moderní společnost evokující atmosféru meziválečného období
 
 🏛 **Společensko-historický kontext**  
-Drama reflektuje obavy z technologického pokroku, války a šíření nemocí, a zároveň varuje před neomezeným vědeckým pádem bez etických zábran.
+Drama reflektuje obavy z technologického pokroku, války a šíření nemocí, přičemž varuje před neomezeným vědeckým pokrokem bez etických zábran.
 
 👤 **Hlavní postavy**  
 • **Doktor Galén** – představitel humanismu a rozumu  
 • **Prezident a další státní představitelé** – zobrazení selhání autorit v době krize  
-• **Obyvatelé společnosti** – symbolizují rozpolcenost mezi strachem z inovací a touhou po změně
+• **Obyvatelé společnosti** – symbolizují rozpolcenost mezi strachem a touhou po změně
 
 📜 **Děj**  
-Během pandemie, která sužuje celou společnost, se Doktor Galén a státní představitelé snaží najít řešení, zatímco lidé upadají do chaosu a tradiční hodnoty se hroutí. Konflikt mezi vědou, etikou a mocí vede k dramatickým změnám v celém společenském řádu.
+Příběh se odehrává během pandemie, která sužuje celou společnost. Doktor Galén a státní představitelé se snaží najít řešení, zatímco lidé upadají do chaosu a tradiční hodnoty se hroutí. Konflikt mezi vědou, etikou a mocí postupně mění společenský řád.
 
 💡 **Hlavní myšlenky**  
-• Nebezpečí neomezeného vědeckého pokroku bez etických zábran  
-• Kritika autoritářských režimů  
+• Nebezpečí vědeckého pokroku bez etických zábran  
+• Kritika autoritářských režimů a jejich strachu z inovací  
 • Důraz na humanismus a morální integritu
 
 📚 **Další díla autora**  
@@ -582,11 +583,11 @@ Během pandemie, která sužuje celou společnost, se Doktor Galén a státní p
 Dílo reflektuje psychologické a společenské napětí doby, kdy se mění hodnoty a roste podezření vůči autoritám. Symbolika textu varuje před nebezpečím nekritického přijímání vůdcovství.
 
 👤 **Hlavní postavy**  
-• **Krysař** – charismatický vůdce, symbolizující schopnost vést dav a manipulovat osudy  
+• **Krysař** – charismatický vůdce, který má schopnost vést dav a manipulovat osudy  
 • **Obyvatelé města** – představují kolektivní slabost a neschopnost čelit manipulaci
 
 📜 **Děj**  
-Krysař přichází do města poznamenaného morálním úpadkem a chudobou. Svou hudbou a charismatem získává důvěru obyvatel, které vede k nadějným, ale nakonec dvojznačnému změnovému procesu, kdy se město ocitá v morálním konfliktu.
+Krysař přichází do města poznamenaného morálním úpadkem a chudobou. Svou hudbou a charismatem získává důvěru obyvatel, které vede k nadějnému, ale nakonec dvojznačnému procesu změny, kdy se město ocitá v morálním konfliktu.
 
 💡 **Hlavní myšlenky**  
 • Varování před vůdcovskou manipulací  
@@ -608,21 +609,21 @@ Krysař přichází do města poznamenaného morálním úpadkem a chudobou. Svo
 **Literární druh:** Epika  
 **Žánr:** Román, tragikomedie  
 **Období:** Česká literatura 20. století (60. léta)  
-**Místo a čas děje:** Československo, převážně železniční stanice a dopravní uzly v poválečné době (1950–60. léta)
+**Místo a čas děje:** Československo, zejména železniční stanice a dopravní uzly v poválečné době (1950–60. léta)
 
 🏛 **Společensko-historický kontext**  
-Román zachycuje absurditu a nesmyslnost života v době komunistického režimu v poválečném Československu, kde cenzura a byrokracie ovlivňovaly každodenní život lidí.
+Román ukazuje absurditu a nesmyslnost života za komunistického režimu, kdy cenzura, byrokracie a represivní systém zásadně ovlivňovaly každodenní život obyčejných lidí.
 
 👤 **Hlavní postavy**  
 • **Miloš** – mladý muž pracující na železnici, jehož pohled je plný humoru i melancholie  
 • **Vedoucí pracovníci** – zosobňují absurditu a represe doby
 
 📜 **Děj**  
-Příběh sleduje osudy mladého Miloše, který pracuje na železnici. Jeho každodenní život je plný bizarních událostí, setkání s pestrou škálou postav a absurdních situací, jež odrážejí tragikomedii poválečné reality a touhu po individualitě ve společnosti ovládané cenzurou.
+Příběh sleduje mladého Miloše pracujícího na železnici, jehož každodenní život je postupně plný bizarních událostí a setkání s pestrou škálou postav, jež odrážejí tragikomedii poválečné reality a touhu po svobodě a individuálnosti.
 
 💡 **Hlavní myšlenky**  
 • Absurdnost a křehkost lidské existence  
-• Humor jako prostředek odporu proti represím  
+• Humor jako zbraň proti represím  
 • Hledání svobody a individuality v utlačovaném prostředí
 
 📚 **Další díla autora**  
@@ -643,19 +644,19 @@ Příběh sleduje osudy mladého Miloše, který pracuje na železnici. Jeho ka�
 **Místo a čas děje:** Evropské prostředí, poválečná éra se zaměřením na tragické události holocaustu
 
 🏛 **Společensko-historický kontext**  
-Dílo reflektuje temné období holocaustu a poválečné trauma, zdůrazňuje význam paměti a potřebu vyrovnat se s historickými tragédiemi.
+Dílo reflektuje temné období holocaustu a poválečné trauma, zdůrazňující význam paměti a nutnost vyrovnat se s historickými tragédiemi.
 
 👤 **Hlavní postavy**  
 • **Hlavní protagonista** – postava, která prochází osobní traumou a nese tíhu tragických historických událostí  
-• **Vedlejší postavy** – osudy přeživších holocaustu, symbolizující touhu po spravedlnosti a lidskosti
+• **Vedlejší postavy** – reprezentují osudy přeživších a obětí holocaustu, připomínající touhu po spravedlnosti a lidskosti
 
 📜 **Děj**  
-Příběh sleduje osudy přeživších, kdy hlavní postava čelí hlubokým psychologickým traumům minulosti, která ovlivňují její současnost. Název „Modlitba pro K. Horovitzovou“ odkazuje na vzpomínku na oběti a volání po spravedlnosti, přičemž se odhaluje, jak minulost formuje osudy jednotlivců i celé společnosti.
+Příběh sleduje osudy přeživších holocaustu, kdy hlavní postava čelí hlubokým traumatům minulosti, jež ovlivňují její současnost. Název „Modlitba pro K. Horovitzovou“ odkazuje na vzpomínku na oběti a volání po spravedlnosti, přičemž se odhaluje, jak minulost formuje osudy jednotlivců i celé společnosti.
 
 💡 **Hlavní myšlenky**  
-• Význam paměti a uchovávání vzpomínek na tragické dějiny  
+• Význam paměti a uchovávání vzpomínek na tragické události  
 • Trauma minulosti a jeho vliv na osobní identitu  
-• Hledání solidarity a spravedlnosti po tragických událostech
+• Hledání solidarity a spravedlnosti
 
 📚 **Další díla autora**  
 • *Ostatky* (vybrané povídky a eseje)
@@ -675,19 +676,19 @@ Příběh sleduje osudy přeživších, kdy hlavní postava čelí hlubokým psy
 **Místo a čas děje:** Česká venkovská oblast během druhé světové války
 
 🏛 **Společensko-historický kontext**  
-Dílo zachycuje autorovo dětství v těžkých válečných dobách, kdy se navzdory tragickým událostem objevují rodinné hodnoty, humor a láska k přírodě.
+Dílo zachycuje autorovo dětství v těžkých válečných dobách, kdy se navzdory tragickým okolnostem objevují rodinné hodnoty, humor a láska k přírodě.
 
 👤 **Hlavní postavy**  
-• **Leo Popper** – postava symbolizující otcovskou figuru, vášnivého rybáře a obchodníka  
+• **Leo Popper** – symbol otcovské postavy, vášnivý rybář a obchodník  
 • **Ota Popper** – vypravěč, reprezentace autorova dětství  
 • **Strejda Prošek** – legendární pytlák  
 • **Pes Holan** – věrný společník, symbol loajality
 
 📜 **Děj**  
-Sbírka autobiografických povídek líčí autorovo dětství a život na venkově během druhé světové války. V titulní povídce *Smrt krásných srnců* se popisuje zoufalá snaha zajistit zásoby masa pro rodinu, což vede ke kombinaci dramatických a humorných situací. Kontrast mezi krutostí války a nevinností dětství zdůrazňuje sílu rodinných hodnot.
+Sbírka autobiografických povídek líčí autorovo dětství a život na venkově během druhé světové války. V titulní povídce *Smrt krásných srnců* se popisuje zoufalá snaha zajistit zásoby masa pro rodinu, což vede k dramatickým, ale i humorným situacím. Kontrast mezi krutostí války a nevinností dětství zdůrazňuje sílu rodinných hodnot.
 
 💡 **Hlavní myšlenky**  
-• Síla rodinných vztahů a lásky k přírodě  
+• Síla rodinných vztahů a láska k přírodě  
 • Tragikomedie života během válečných let  
 • Kontrast mezi lidskou upřímností a krutostí doby
 
